@@ -1,3 +1,5 @@
+# Alexander Pihl - DAT3SEM
+
 ## 1 - Forklare om behovet for Client-side routing i en SPA samt vise eksempler på brug af react router og subroutes. *
 
 - React renders the appropriate information on the DOM using its component structure. Client-side routing in React helps to maintain 
